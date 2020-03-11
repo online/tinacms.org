@@ -25,7 +25,7 @@ author: Nolan Phillips
 
 ## Contributors
 
-A big thanks to all our contributors for this release! <3
+A big thanks to all our contributors for this release! <3 тест поддержки русского языка.
 
 | # Commits | Name |
 | --- | --- |
